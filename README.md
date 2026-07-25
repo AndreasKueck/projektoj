@@ -90,6 +90,7 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[telefonikunchatgpt](https://github.com/AndreasKueck/telefonikunchatgpt)** *([🌐Retejo](https://medium.com/westphoenizier/en-esperanto-telefoni-kun-chatgpt-f97a6c3429dc))* - Replit-pakaĵo por programo, kiu ebligas telefonadon kun voĉo kreita per artefarita intelekto kaj respondanta surbaze de granda lingvomodelo de ChatGPT de Open AI
 - **[traduktelefono](https://github.com/AndreasKueck/traduktelefono)** *([🌐Retejo](https://medium.com/westphoenizier/traduktelefono-468e3baba566))* - Replit-pakaĵo por traduktelefono per ChatGPT kaj Twilio: Ambaŭ telefonantoj parolas sian propran lingvon kaj aŭdas en ĝin tradukon de la alia lingvo
 - **[traduko](https://github.com/AndreasKueck/traduko)** *([🌐Retejo](https://gist.github.com/AndreasKueck/70d1a4e33843289954114990e71e6ab4))* - Makrooj de la Android-a apo MacroDroid por preskaŭ realtempaj transskribo kaj traduko de la sono eniranta en la mikrofonan enigon
+- **[elsendoj](https://github.com/AndreasKueck/elsendoj)** *([🌐Retejo](https://script.google.com/a/~/macros/s/AKfycbx5zvsyQmJCZRAAxUvqX9tNcV7maLSNBJQhecjkhcuG41eCPoBOVg7Z55pjPdkgshH0/exec))* - Pakaĵo por ret-apo kaj Android-apo eligantaj liston de amplitudmodulade dissendataj radioelsendoj en elektita lingvo
 
 ## 📜 Vortlistoj:
 

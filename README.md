@@ -43,6 +43,7 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[lensstudioobjektoj](https://github.com/AndreasKueck/lensstudioobjektoj)** *([🌐Retejo](https://www.snapchat.com/lens/6e0e3f071a0e41699d6a210516708f96))* - Lens-Studio-pakaĵo por Snapchat-lenso "Objektoj" prezentanta la situojn de Zamenhof/Esperanto-objektoj (ZEO-oj) plej proksimaj al la uzanto
 - **[kurso-zagreba-metodo](https://github.com/esperanto/kurso-zagreba-metodo)** *([🌐 Retejo](https://esperanto12.net))* - La kurso laŭ la [Zagreba metodo](https://eo.wikipedia.org/wiki/Zagreba_metodo), ciferecigita. Ekzistas kiel retejo Esperanto12.net sed ankaŭ eblas krei aliajn eligojn, ekzemple PDF, tra Markown.
 - **[Parolejo](https://github.com/bryan-parolejo)** *([🌐 Retejo](https://parolejo.app))* - Esperanto-kurso por Androido kaj iOS ne bezonanta retkonekton kaj baziĝanta sur la [Zagreb-metoda kurso](https://github.com/esperanto/kurso-zagreba-metodo)
+- **[lensstudioeo12](https://github.com/AndreasKueck/lensstudioeo12)** *([🌐Retejo](https://www.snapchat.com/lens/db5e823f3356404d9f2bdbbe00096fef))* - Lens-Studio-pakaĵo por Snapchat-lenso "esperanto12" provizanta la uzanton per ĉapo kun teksto atentiganta pri kurso esperanto12.net
  
 ## 🧩 Kromprogramoj (addons):
 

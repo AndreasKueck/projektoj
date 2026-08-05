@@ -93,6 +93,7 @@ Bv. aldonu per [pull request](https://github.com/Esperanto/projektoj/edit/master
 - **[traduko](https://github.com/AndreasKueck/traduko)** *([🌐Retejo](https://gist.github.com/AndreasKueck/70d1a4e33843289954114990e71e6ab4))* - Makrooj de la Android-a apo MacroDroid por preskaŭ realtempaj transskribo kaj traduko de la sono eniranta en la mikrofonan enigon
 - **[elsendoj](https://github.com/AndreasKueck/elsendoj)** *([🌐Retejo](https://script.google.com/a/~/macros/s/AKfycbx5zvsyQmJCZRAAxUvqX9tNcV7maLSNBJQhecjkhcuG41eCPoBOVg7Z55pjPdkgshH0/exec))* - Pakaĵo por ret-apo kaj Android-apo eligantaj liston de amplitudmodulade dissendataj radioelsendoj en elektita lingvo
 - **[lensstudiokartonavr](https://github.com/AndreasKueck/lensstudiokartonavr)** *([🌐Retejo](https://www.snapchat.com/lens/bf8bdd8c57094268bb77bdc3da69dbd7))* - Lens-Studio-pakaĵo por Snapchat-lenso "Kartona VR": Uzante ĝin kombine kun ekzemple kartonaj okulvitroj por virtuala realo, oni spertas tri-dimensian efekton en la ĉirkaŭaĵo
+- **[lensstudioprognozodemuf](https://github.com/AndreasKueck/lensstudioprognozodemuf)** *([🌐Retejo](https://www.snapchat.com/lens/3b837ee83eb945eab68e32661de776b8))* - Lens-Studio-pakaĵo por Snapchat-lenso "Prognozo de MUF". Ĝi eligas la maksimuman uzeblan frekvencon (MUF) inter la sendoloko de Europa24 kaj loko de la uzanto surbaze de la "MINIMUF-3"-algoritmo
 
 ## 📜 Vortlistoj:
 

@@ -158,6 +158,7 @@ Entertainment System.
 - **[Age of Empires 1](https://github.com/esperanto-rts/AoE1-eo-mod)** - Esperanto voices for Age of Empires 1
 - **[A Dark Room](https://adarkroom.doublespeakgames.com/?lang=eo)** - A Minimalist Text Adventure 
 - **[What the Shell](https://whattheshell.games)** *([📱 Google Play](https://play.google.com/store/apps/details?id=games.whattheshell.app) | [🍎 App Store](https://apps.apple.com/app/id925447970))* - Strategia tabulludo sur 9×9-krado, en kiu ambaŭ ludantoj metas samtempe, sen vidi la meton de la alia. Kolizioj kreas ovojn. Esperanto estas la unua traduko de la ludo, farita en 2014, kiam ĝi ankoraŭ havis la provizoran nomon "Kvin". En 2026 la ludo estis relanĉita kun reta ludado.
+- **[Flipero](https://github.com/AndreasKueck/lensstudioflipero)** *([🌐 Flipero](https://www.snapchat.com/lens/013d080c76a5411194a3bc223a4d9d9a))* - Lens-Studio-pakaĵo por Snapchat-lenso "Flipero". Ĝi ebligas al uzanto ludi fliperon per smartfono ene de apo Snapchat
 
 ### 🕹️📜 Listoj de Ludoj
 

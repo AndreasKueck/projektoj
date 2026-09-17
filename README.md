@@ -160,6 +160,7 @@ Entertainment System.
 - **[What the Shell](https://whattheshell.games)** *([📱 Google Play](https://play.google.com/store/apps/details?id=games.whattheshell.app) | [🍎 App Store](https://apps.apple.com/app/id925447970))* - Strategia tabulludo sur 9×9-krado, en kiu ambaŭ ludantoj metas samtempe, sen vidi la meton de la alia. Kolizioj kreas ovojn. Esperanto estas la unua traduko de la ludo, farita en 2014, kiam ĝi ankoraŭ havis la provizoran nomon "Kvin". En 2026 la ludo estis relanĉita kun reta ludado.
 - **[Flipero](https://github.com/AndreasKueck/lensstudioflipero)** *([🌐 Flipero](https://www.snapchat.com/lens/013d080c76a5411194a3bc223a4d9d9a))* - Lens-Studio-pakaĵo por Snapchat-lenso "Flipero". Ĝi ebligas al uzanto ludi fliperon per smartfono ene de apo Snapchat
 - **[Skato](https://github.com/AndreasKueck/easylensskato)** *([🌐 Skato](https://www.snapchat.com/lens/53639fadb45647bfb25171bd0f94b4e5))* - Prompto uzita, por krei Snapchat-lenson "Skato" per apo Easy Lens. La lenso ebligas al uzanto ludi skaton per smartfono ene de apo Snapchat
+- **[Trovu vortojn](https://github.com/AndreasKueck/easylenstrovuvortojn)** *([🌐 Trovu vortojn](https://www.snapchat.com/lens/0521f6cbf0b148128903660f5c453441))* - Prompto uzita, por krei Snapchat-lenson "Trovu vortojn" per apo Easy Lens. La lenso ebligas al uzanto ludi vortotrovan ludon per smartfono ene de apo Snapchat
 
 ### 🕹️📜 Listoj de Ludoj
 
